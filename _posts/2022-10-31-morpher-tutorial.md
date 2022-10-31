@@ -21,8 +21,8 @@ Morpher can handle real-world application kernels without being limited to simpl
 Morpher architecture description language allows users to easily specify a variety of architectural features such as complex interconnects, multi-hop routing, and memory organizations.
 
  <br> <br> <br>
-![_config.yml]({{ site.baseurl }}/images/morpher_framework.png)
-Morpher Framework
+<img src="https://ecolab-nus.github.io/images/morpher_framework.png" alt="drawing" width="700"/> \
+Overview of LISA framework: 1. Generate training data 2. Build GNN Model. 3. GNN-based label-aware mapping.
 
 # Schedule
 1. Introduction (30min)<br>
