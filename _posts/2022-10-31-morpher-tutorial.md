@@ -2,12 +2,13 @@
 layout: post
 title: Morpher Tutorial
 ---
+![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
 ## Organizers
 
 [Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/)
 
-![_config.yml]({{ site.baseurl }}/images/morpher.png)
+
 
 
 
