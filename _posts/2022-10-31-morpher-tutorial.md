@@ -20,6 +20,7 @@ Morpher can take a real-world application with a compute-intensive kernel and a 
 Morpher can handle real-world application kernels without being limited to simple toy kernels through its feature-rich compiler. 
 Morpher architecture description language allows users to easily specify a variety of architectural features such as complex interconnects, multi-hop routing, and memory organizations.
 
+ <br> <br> <br>
 ![_config.yml]({{ site.baseurl }}/images/morpher_framework.png)
 Morpher Framework
 
