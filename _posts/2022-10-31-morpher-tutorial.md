@@ -6,7 +6,8 @@ title: Morpher Tutorial
 
 ## Organizers
 
-[Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/)
+[Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) <br>
+from _National University of Singapore_
 
 
 
