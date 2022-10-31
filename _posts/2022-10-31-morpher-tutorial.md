@@ -3,15 +3,15 @@ layout: post
 title: Morpher Tutorial
 ---
 
-<span style="font-size:larger;">Organizers</span>
+## Organizers
 
-<p style="text-align: center;">Zhaoying Li, Tulika Mitra</p>
+<p style="text-align: center;">[Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/)</p>
 
 ![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
 
 
-
+## Introduction
 Coarse-Grained Reconfigurable Architecture (CGRA) provides a promising pathway to scale the performance and energy efficiency of computing systems by accelerating the compute-intensive loop kernels. However, there exists no end-to-end open-source toolchain for CGRA, supporting architectural design space exploration, compilation, simulation, and FPGA emulation for real-world applications.  This hands-on tutorial presents Morpher, an open-source end-to-end compilation and simulation framework for CGRA, featuring state-of-the-art mappers, assisting in design space exploration, and enabling application-level testing of CGRA.
 Morpher can take a real-world application with a compute-intensive kernel and a user-provided CGRA architecture as input, compile the kernel using different mapping methods, and automatically validate the compiled binaries through cycle-accurate simulation using test data extracted from the application.
 Morpher can handle real-world application kernels without being limited to simple toy kernels through its feature-rich compiler.
@@ -19,6 +19,7 @@ Morpher architecture description language allows users to easily specify a varie
 
 ![_config.yml]({{ site.baseurl }}/images/morpher_framework.png)
 
+# Schedule
 1. Introduction (30min)<br>
     a. The era of domain-specific ASIC Accelerators. <br>
     b. Software-defined hardware. <br>
