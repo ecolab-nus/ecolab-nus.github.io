@@ -21,7 +21,7 @@ Morpher can handle real-world application kernels without being limited to simpl
 Morpher architecture description language allows users to easily specify a variety of architectural features such as complex interconnects, multi-hop routing, and memory organizations.
 
  <br> <br> <br>
-<img src="https://ecolab-nus.github.io/images/morpher_framework.png" alt="drawing" width="700"/> \
+<img src="https://ecolab-nus.github.io/images/morpher_framework.png" alt="drawing" width="700"/> 
 <p style="text-align: center;">Fig.1 Morpher Framework</p>
 
 # Schedule
