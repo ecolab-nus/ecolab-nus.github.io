@@ -5,7 +5,7 @@ title: Morpher Tutorial
 
 ## Organizers
 
-<p style="text-align: center;">[Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/)</p>
+[Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/)
 
 ![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
