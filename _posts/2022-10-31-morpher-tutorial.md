@@ -5,5 +5,5 @@ title: Morpher Tutorial
 
 Morpher tutorial starts.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
