@@ -22,7 +22,7 @@ Morpher architecture description language allows users to easily specify a varie
 
  <br> <br> <br>
 <img src="https://ecolab-nus.github.io/images/morpher_framework.png" alt="drawing" width="700"/> \
-Morpher Framework
+<p style="text-align: center;">Fig.1 Morpher Framework</p>
 
 # Schedule
 1. Introduction (30min)<br>
