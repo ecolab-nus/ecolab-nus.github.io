@@ -22,7 +22,7 @@ Morpher architecture description language allows users to easily specify a varie
 
  <br> <br> <br>
 <img src="https://ecolab-nus.github.io/images/morpher_framework.png" alt="drawing" width="700"/> \
-Overview of LISA framework: 1. Generate training data 2. Build GNN Model. 3. GNN-based label-aware mapping.
+Morpher Framework
 
 # Schedule
 1. Introduction (30min)<br>
