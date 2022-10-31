@@ -4,14 +4,13 @@ title: Morpher Tutorial
 ---
 ![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
+## [Code Repo: https://github.com/ecolab-nus/morpher](https://github.com/ecolab-nus/morpher)
+
 ## Organizers
 
 [Zhaoying Li](https://zhaoying-li.github.io), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) <br>
 from _National University of Singapore_
 
-
-
-## [Code Repo: https://github.com/ecolab-nus/morpher](https://github.com/ecolab-nus/morpher)
 
 ## Introduction
 Coarse-Grained Reconfigurable Architecture (CGRA) provides a promising pathway to scale the performance and energy efficiency of computing systems by accelerating the compute-intensive loop kernels. However, there exists no end-to-end open-source toolchain for CGRA, supporting architectural design space exploration, compilation, simulation, and FPGA emulation for real-world applications.  <br>
