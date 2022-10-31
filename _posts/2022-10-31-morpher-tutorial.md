@@ -4,6 +4,7 @@ title: Morpher Tutorial
 ---
 ![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
+
 ## [Code Repo: https://github.com/ecolab-nus/morpher](https://github.com/ecolab-nus/morpher)
 
 ## Organizers
@@ -20,6 +21,7 @@ Morpher can handle real-world application kernels without being limited to simpl
 Morpher architecture description language allows users to easily specify a variety of architectural features such as complex interconnects, multi-hop routing, and memory organizations.
 
 ![_config.yml]({{ site.baseurl }}/images/morpher_framework.png)
+Morpher Framework
 
 # Schedule
 1. Introduction (30min)<br>
