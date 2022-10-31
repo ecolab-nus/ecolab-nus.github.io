@@ -7,5 +7,6 @@ Morpher tutorial starts.
 
 ![_config.yml]({{ site.baseurl }}/images/morpher.png)
 
-<font size=”18”>Organizers</font>
+<span style="font-size:larger;">Organizers</span>
+
 <p style="text-align: center;">Zhaoying Li, Tulika Mitra</p>
