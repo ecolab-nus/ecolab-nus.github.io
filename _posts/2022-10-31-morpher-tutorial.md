@@ -13,7 +13,7 @@ title: Morpher Tutorial
 from _National University of Singapore_
 
 
-## Introduction
+# Introduction
 Coarse-Grained Reconfigurable Architecture (CGRA) provides a promising pathway to scale the performance and energy efficiency of computing systems by accelerating the compute-intensive loop kernels. However, there exists no end-to-end open-source toolchain for CGRA, supporting architectural design space exploration, compilation, simulation, and FPGA emulation for real-world applications.  <br>
 This hands-on tutorial presents Morpher, an open-source end-to-end compilation and simulation framework for CGRA, featuring state-of-the-art mappers, assisting in design space exploration, and enabling application-level testing of CGRA.  <br>
 Morpher can take a real-world application with a compute-intensive kernel and a user-provided CGRA architecture as input, compile the kernel using different mapping methods, and automatically validate the compiled binaries through cycle-accurate simulation using test data extracted from the application.
