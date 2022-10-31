@@ -9,7 +9,7 @@ title: Morpher Tutorial
 
 ## Organizers
 
-[Zhaoying Li](https://zhaoying-li.github.io), [Dhananjaya Wijerathne](https://scholar.google.com.sg/citations?user=LKA2OasAAAAJ), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) <br>
+[Zhaoying Li](https://zhaoying-li.github.io), [Dhananjaya Wijerathne](https://www.linkedin.com/in/dhananjaya-wijerathne-08b67541), [Tulika Mitra](https://www.comp.nus.edu.sg/~tulika/) <br>
 from _National University of Singapore_
 
 
