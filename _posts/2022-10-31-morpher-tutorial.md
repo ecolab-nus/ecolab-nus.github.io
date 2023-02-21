@@ -24,6 +24,15 @@ Morpher architecture description language allows users to easily specify a varie
 <img src="https://ecolab-nus.github.io/images/morpher_framework.png" alt="drawing" width="700"/> 
 <p style="text-align: center;">Fig.1 Morpher Framework</p>
 
+# Goal
+* Learn the current status of CGRA
+* Learn the Morpher framework
+* Hands-on tutorial for Morpher
+
+# Requirement
+* Hardware: Linux machine or Mac (Intel chip)
+* Software: Docker
+
 # Schedule
 1. **Introduction (30min)**<br>
     a. The era of domain-specific ASIC Accelerators. <br>
